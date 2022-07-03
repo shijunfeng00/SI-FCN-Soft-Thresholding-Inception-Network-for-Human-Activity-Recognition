@@ -30,8 +30,12 @@ We use the data augmentation strategies with SI-Net and FCN.
 In the training phase, we trained two models separately
 ## requirements
 tensorflow-gpu==2.8
+
 cuda==11.3.1
+
 cudnn==8.2.1
+
 ## Dataset Download
 [UCI-HAR](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 [WISDM](https://www.cis.fordham.edu/wisdm/dataset.php)
