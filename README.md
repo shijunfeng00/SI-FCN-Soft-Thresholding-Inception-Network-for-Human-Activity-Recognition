@@ -25,7 +25,7 @@
 ## implement
 In this repository, all the models are implemented by [TensorFlow](https://github.com/tensorflow).
 
-We use the data augmentation strategies with IS-Net and FCN.
+We use the data augmentation strategies with SI-Net and FCN.
 
 In the training phase, we trained two models separately
 ## requirements
