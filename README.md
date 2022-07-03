@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="figures/combination.png">
+  <img src="figures/Combination.png">
 </div>
 <p align="center">
   Figure 3: The Models training and deployment flowchart.
