@@ -1,0 +1,1 @@
+# SI-FCN-Soft-Thresholding-Inception-Network-for-Human-Activity-Recognition
